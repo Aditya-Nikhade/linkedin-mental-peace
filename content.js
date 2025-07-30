@@ -1,8 +1,8 @@
 //add the banned words and phrases below as you wish.👇🏼
 
 const bannedWords = [
-  "excited", "thrilled", "package", "congratulations", "maang", "faang",
-  "google", "meta", "layoffs", "grateful", "SDE", "LPA"
+  "excited", "thrilled", "congratulations", "maang", "faang",
+  "google", "meta", "layoffs", "grateful", "Tier 3"
 ];
 
 const bannedPhrases = [
